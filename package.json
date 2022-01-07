@@ -14,10 +14,6 @@
 	"module": "./dist/vue-simple-calendar.es.js",
 	"types": "./dist/vue-simple-calendar.d.js",
 	"style": "./dist/style.css",
-	"files": [
-		"dist",
-		"static"
-	],
 	"exports": {
 		".": {
 			"import": "./dist/vue-simple-calendar.es.js",
