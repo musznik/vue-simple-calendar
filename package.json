@@ -16,7 +16,8 @@
 	"style": "./dist/style.css",
 	"files": [
 		"dist",
-		"static"
+		"static",
+		"src"
 	],
 	"exports": {
 		".": {
